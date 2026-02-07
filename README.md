@@ -1,95 +1,66 @@
-<h1 align="center">Hi, I'm Mohammed Hassen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  Hey, I'm Mohammed Hassen
+</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohamed-douiery-a48496373"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:me.doueiry@esp.mr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="mailto:MoHasseenn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Flutter+%7C+Django+%7C+React;Building+Smart+Solutions;Clean+Code+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Flutter+%7C+Django+%7C+React;Building+Smart+Solutions;Passionate+About+Clean+Code" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/mohamed-douiery-a48496373"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:me.doueiry@esp.mr"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/7assen-coder"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ### About Me
 
-- Full-Stack Developer based in **Nouakchott, Mauritania**
-- Student at **ESP** (Ecole Superieure Polytechnique)
-- Creator of **RAQIB** — Intelligent Attendance Management System
-- Creator of **Tawssil** — Smart Delivery Platform
-- Passionate about building real-world solutions with clean architecture
+```yaml
+name: Mohammed Hassen
+location: Nouakchott, Mauritania
+education: ESP - Ecole Superieure Polytechnique
+role: Full-Stack Developer
+
+currently_working_on: RAQIB - Intelligent Attendance System
+interests: [Mobile Development, Web Apps, Clean Architecture, DevOps]
+```
 
 ---
 
 ### Tech Stack
 
-<table>
-<tr>
-<td align="center" width="140">
-
-**Backend**
-
-</td>
-<td align="center" width="140">
-
-**Frontend**
-
-</td>
-<td align="center" width="140">
-
-**Mobile**
-
-</td>
-<td align="center" width="140">
-
-**Database**
-
-</td>
-<td align="center" width="140">
-
-**DevOps**
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=django" width="40" /><br/>Django<br/>
-<img src="https://skillicons.dev/icons?i=py" width="40" /><br/>Python<br/>
-<img src="https://skillicons.dev/icons?i=java" width="40" /><br/>Java EE
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="40" /><br/>React<br/>
-<img src="https://skillicons.dev/icons?i=js" width="40" /><br/>JavaScript<br/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br/>Tailwind CSS
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter" width="40" /><br/>Flutter<br/>
-<img src="https://skillicons.dev/icons?i=dart" width="40" /><br/>Dart<br/>
-<img src="https://skillicons.dev/icons?i=cs" width="40" /><br/>.NET MAUI
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres" width="40" /><br/>PostgreSQL<br/>
-<img src="https://skillicons.dev/icons?i=redis" width="40" /><br/>Redis<br/>
-<img src="https://skillicons.dev/icons?i=sqlite" width="40" /><br/>SQLite
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=docker" width="40" /><br/>Docker<br/>
-<img src="https://skillicons.dev/icons?i=git" width="40" /><br/>Git<br/>
-<img src="https://skillicons.dev/icons?i=githubactions" width="40" /><br/>CI/CD
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_EE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
@@ -97,57 +68,74 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### RAQIB
-> Intelligent Attendance Management System
+<h3 align="center">RAQIB</h3>
+<p align="center"><strong>Intelligent Attendance Management System</strong></p>
 
-- Django REST + React + Flutter
-- WiFi detection & facial recognition
-- Role-based dashboard (Admin / Responsable)
-- Auto-generated PDF documentation
-- CI/CD with GitHub Actions
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
-`django` `react` `flutter` `postgresql` `docker` `celery` `tailwindcss`
+- Full-stack system: Django REST API + React Dashboard + Flutter App
+- WiFi-based location verification & facial recognition
+- Role-based dashboard (Administration / Responsable)
+- Celery task queue, Redis cache, CI/CD pipeline
+- Auto-generated PDF documentation (BMC, UML diagrams, budget)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### Tawssil
-> Smart Delivery Platform
+<h3 align="center">Tawssil</h3>
+<p align="center"><strong>Smart Delivery Platform</strong></p>
 
-- Flutter mobile application
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Riverpod-00B0FF?style=flat-square&logoColor=white"/>
+</p>
+
+- Cross-platform mobile application
 - Real-time order tracking
-- Route optimization
-- Clean Architecture with Riverpod
-
-`flutter` `dart` `mobile` `delivery`
+- Route optimization engine
+- Clean Architecture with Riverpod state management
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### ISCAE Portal
-> Web Platform for Academic Institution
+<h3 align="center">ISCAE Portal</h3>
+<p align="center"><strong>Academic Institution Platform</strong></p>
 
-- Full-stack JavaScript application
-- Student & admin portals
-- Academic management system
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
 
-`javascript` `web` `education`
+- Full-stack web platform for ISCAE
+- Student & admin management portals
+- Academic workflow automation
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### Attendance Manager (PHP)
-> Web-based Absence Tracking
+<h3 align="center">More Projects</h3>
+<p align="center"><strong>Academic & Personal</strong></p>
 
-- PHP backend with MySQL
-- Student & teacher management
-- Reports and statistics
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_EE-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+</p>
 
-`php` `mysql` `web-app`
+- **JEE Projects** — Enterprise apps with Servlets, JSP & JDBC
+- **PHP Attendance App** — Web-based absence tracking
+- **.NET Mobile App** — Cross-platform with MAUI/Xamarin
 
 </td>
 </tr>
@@ -155,15 +143,20 @@
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7assen-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7assen-coder&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=7assen-coder&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" width="55%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7assen-coder&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" width="40%" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7assen-coder&theme=tokyonight" width="70%" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7assen-coder&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7assen-coder&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7assen-coder&theme=tokyonight&utcOffset=0" width="32%"/>
 </p>
 
 ---
@@ -172,4 +165,4 @@
   <img src="https://komarev.com/ghpvc/?username=7assen-coder&style=for-the-badge&color=3B82F6" alt="Profile Views"/>
 </p>
 
-<p align="center"><i>Open to collaboration and new opportunities</i></p>
+<p align="center"><sub>Open to collaboration and new opportunities</sub></p>
