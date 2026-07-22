@@ -6,7 +6,7 @@
   Mohammed Hassen
 </h1>
 
-<h3>Full-Stack & Mobile Developer · AI Engineer · Cybersecurity Enthusiast</h3>
+<h3>Full-Stack & Mobile Developer · AI Dev · Network Enthusiast</h3>
 
 <!-- TYPING -->
 
